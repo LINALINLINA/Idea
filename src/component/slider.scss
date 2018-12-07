@@ -1,0 +1,17 @@
+.container {
+    height: auto;
+    position: relative;
+    ul {
+        width: 100%;
+        height:auto;
+        position: absolute;
+    }
+
+    li {
+        display: inline-block;
+        height: 260px;
+        width: 260px;
+        background-color: #eee;
+        margin: 0 5px;
+    }
+}
